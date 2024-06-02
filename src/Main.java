@@ -3,7 +3,7 @@ public class Main
     public static void main(String[]args)
     {
         System.out.println("Hello World");
-        System.out.println("This is mohit yadav");
+        System.out.println("This is Gojostar");
 
         int num1 = 2;
         int num2 = 34;
